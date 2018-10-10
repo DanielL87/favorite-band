@@ -1,0 +1,15 @@
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    float:right;
+
+
+}
+ .sidebar {
+   width: 30%;
+
+   background-color: yellow;
+
+ }
